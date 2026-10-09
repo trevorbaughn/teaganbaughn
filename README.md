@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm **Trevor Baughn**, a game developer currently based in California, and an advocate for [Free](https://www.fsf.org/about/what-is-free-software) and [Open Source](https://en.wikipedia.org/wiki/Open-source_software) Software (FOSS).
+I'm **Teagan Baughn**, a game developer currently based in California, and an advocate for [Free](https://www.fsf.org/about/what-is-free-software) and [Open Source](https://en.wikipedia.org/wiki/Open-source_software) Software (FOSS).
 
 Here you can find;
 - :high_brightness: My [CachyOS + Sway Linux dotfiles](https://github.com/trevorbaughn/.dotfiles)
@@ -11,4 +11,4 @@ Here you can find;
 - :blue_book: ...and some old class work
 
 #### Need to get ahold of me?
-:envelope: - Email me @ *trevor.baughn at protonmail dot com*
+:envelope: - Email me @ *teagan.baughn at proton dot me*
